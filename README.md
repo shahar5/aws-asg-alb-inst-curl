@@ -1,1 +1,0 @@
-# aws-asg-alb-inst-curl
